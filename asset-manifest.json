@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio-amitk/static/css/main.713989b7.css",
+    "main.js": "/portfolio-amitk/static/js/main.f2db6f1a.js",
+    "static/js/787.128fc6e9.chunk.js": "/portfolio-amitk/static/js/787.128fc6e9.chunk.js",
+    "static/media/mypic.png": "/portfolio-amitk/static/media/mypic.ab303245e2d5784e8e33.png",
+    "static/media/contactimg.png": "/portfolio-amitk/static/media/contactimg.828428c45257132c7a2e.png",
+    "static/media/service5.jpg": "/portfolio-amitk/static/media/service5.ac0679fea9dbca82a688.jpg",
+    "static/media/service2.jpg": "/portfolio-amitk/static/media/service2.0a4893421f4eb80a395c.jpg",
+    "static/media/service1.jpg": "/portfolio-amitk/static/media/service1.1f67126f40fb21116e2b.jpg",
+    "static/media/cognos (9).png": "/portfolio-amitk/static/media/cognos (9).85534ca9d78681b936c3.png",
+    "static/media/emoji1.png": "/portfolio-amitk/static/media/emoji1.590b149e7aa5647421a7.png",
+    "static/media/webicon.png": "/portfolio-amitk/static/media/webicon.beb89789c2a877131a45.png",
+    "static/media/dsicon.png": "/portfolio-amitk/static/media/dsicon.6f6ee7f8d2b4cff03165.png",
+    "static/media/resume.png": "/portfolio-amitk/static/media/resume.9c30796d018c4e60fff9.png",
+    "static/media/service6.jpg": "/portfolio-amitk/static/media/service6.7cbbac2bac1fc0994f92.jpg",
+    "static/media/cognos (5).png": "/portfolio-amitk/static/media/cognos (5).929cb1377f3855a2c7a6.png",
+    "static/media/service4.jpg": "/portfolio-amitk/static/media/service4.10415744af63cfffdcf2.jpg",
+    "static/media/Amitresume.pdf": "/portfolio-amitk/static/media/Amitresume.509c3fca724f7d126545.pdf",
+    "static/media/service3.jpg": "/portfolio-amitk/static/media/service3.28fe5745147086042be1.jpg",
+    "static/media/cognos (8).png": "/portfolio-amitk/static/media/cognos (8).e6ebe2259c89418c374e.png",
+    "static/media/cognos (7).png": "/portfolio-amitk/static/media/cognos (7).38837680dd2001908695.png",
+    "static/media/cognos (2).png": "/portfolio-amitk/static/media/cognos (2).8d45af2beda399de66f7.png",
+    "static/media/icon1.png": "/portfolio-amitk/static/media/icon1.ae924a27c7712bc393bf.png",
+    "static/media/cognos (1).png": "/portfolio-amitk/static/media/cognos (1).c4c9aca345821eccc3c1.png",
+    "static/media/cognos (4).png": "/portfolio-amitk/static/media/cognos (4).bc46eaecd7fcc2ae3abf.png",
+    "static/media/cognos (3).png": "/portfolio-amitk/static/media/cognos (3).a5baec17860e5fca063b.png",
+    "static/media/cognos (6).png": "/portfolio-amitk/static/media/cognos (6).f36d3a33e0c020a889f0.png",
+    "index.html": "/portfolio-amitk/index.html",
+    "main.713989b7.css.map": "/portfolio-amitk/static/css/main.713989b7.css.map",
+    "main.f2db6f1a.js.map": "/portfolio-amitk/static/js/main.f2db6f1a.js.map",
+    "787.128fc6e9.chunk.js.map": "/portfolio-amitk/static/js/787.128fc6e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.713989b7.css",
+    "static/js/main.f2db6f1a.js"
+  ]
+}
